@@ -126,3 +126,10 @@ body {
 	padding: 0;
 	height: 1500px;
 }
+footer{margin: 0px;
+	padding: 10px;
+	text-align: center;
+	color: #292c2f;
+	background-color: #ccc;
+	
+}
